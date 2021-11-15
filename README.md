@@ -11,12 +11,12 @@ program use this library for drawing graphics.
 **Secondly**, we open ***main.py*** file and run it.
 
 After running program show you window with graphics:
-![markdown_logo](Figure_1.png)
+![markdown_logo](img_for_readme/Figure_1.png)
 
 ### And
 
 The program will create an EXCEL file with a table that will show you how<br> 
 many characters are in the text and their percentage:
 
-![markdown_logo](CSV.PNG)
+![markdown_logo](img_for_readme/CSV.PNG)
 
