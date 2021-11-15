@@ -43,7 +43,7 @@ def creating_table():
     average = average_all_symbol_form_file()
     character = checker_character_from_file()
 
-    with open('../table.csv', 'w', newline='', encoding='utf-8') as csv_file:
+    with open('table.csv', 'w', newline='', encoding='utf-8') as csv_file:
         writer = csv.writer(csv_file)
         writer.writerow(['Символи', 'Ki', 'Pi'])
         value = character.values()
