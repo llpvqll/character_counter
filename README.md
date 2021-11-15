@@ -1,5 +1,5 @@
 # Character_counter
-###This program was created for count character in different texts.
+### This program was created for count character in different texts.
 
 **Firstly**, 
 what we need, that put text to the **example.txt** file.<br>
@@ -13,7 +13,7 @@ program use this library for drawing graphics.
 After running program show you window with graphics:
 ![markdown_logo](Figure_1.png)
 
-###And
+### And
 
 The program will create an EXCEL file with a table that will show you how<br> 
 many characters are in the text and their percentage:
