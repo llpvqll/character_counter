@@ -15,7 +15,7 @@ After running program show you window with graphics:
 
 ### And
 
-The program will create an EXCEL file with a table that will show you how<br> 
+The program will create an CSV file with a table that will show you how<br> 
 many characters are in the text and their percentage:
 
 ![markdown_logo](img_for_readme/CSV.PNG)
